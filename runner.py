@@ -1,7 +1,5 @@
 """
-You are encouraged to edit this file during development, however your final
-model must be trained using the original version of this file. This file can be
-run in two modes: train and eval.
+This file can be run in two modes: train and eval.
 
 "Train" trains the model defined in implementation.py, performs tensorboard logging,
 and saves the model to disk every 10000 iterations. It also prints loss
